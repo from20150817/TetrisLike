@@ -1,5 +1,8 @@
 # TetrisLike by Unity WebGL
 Unityを独習してテトリス風ゲームを作成しました。
+
+[WebGL版のリリース](https://from20150817.github.io/TetrisLike/)
+
 ## 操作方法
 * 回転 : Q/E
 
