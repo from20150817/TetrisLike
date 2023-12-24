@@ -1,5 +1,5 @@
 # TetrisLike by Unity WebGL
-Unity 独習してテトリス風ゲームを作成しました。
+Unityを独習してテトリス風ゲームを作成しました。
 ## 操作方法
 * 回転 : Q/E
 
